@@ -1,0 +1,14 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>CSV to Table</title>
+    <link rel="stylesheet" href="style.css"> <!-- Link to the CSS file -->
+</head>
+<body>
+
+<div id="table-container"></div> <!-- Container for the table -->
+
+<script src="script.js"></script> <!-- Link to the JavaScript file -->
+</body>
+</html>
